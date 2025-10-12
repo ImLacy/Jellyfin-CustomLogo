@@ -8,7 +8,7 @@
     "imageUrl": "https://github.com/ImLacy/Jellyfin-CustomLogo/blob/main/logo.png?raw=true",
     "versions": [
       {
-        "version": "1.0.3",
+        "version": "1.0.0.3",
         "changelist": "Pathched image and version after installation",
         "targetAbi": "10.10.7.0",
         "sourceUrl": "https://github.com/ImLacy/Jellyfin-CustomLogo/releases/download/1.0.3/CustomLogo.zip",
@@ -16,7 +16,7 @@
         "timestamp": "2025-10-12T21:00:00"
       },
       {
-        "version": "1.0.2",
+        "version": "1.0.0.2",
         "changelist": "Verification for missing permisions",
         "targetAbi": "10.10.7.0",
         "sourceUrl": "https://github.com/ImLacy/Jellyfin-CustomLogo/releases/download/1.0.2/CustomLogo.zip",
@@ -24,7 +24,7 @@
         "timestamp": "2025-09-06T13:50:00"
       },
       {
-        "version": "1.0.1",
+        "version": "1.0.0.1",
         "changelist": "Better redirection after configuration",
         "targetAbi": "10.10.7.0",
         "sourceUrl": "https://github.com/ImLacy/Jellyfin-CustomLogo/releases/download/1.0.1/CustomLogo.zip",
@@ -32,7 +32,7 @@
         "timestamp": "2025-06-16T13:50:00"
       },
       {
-        "version": "1.0.0",
+        "version": "1.0.0.0",
         "changelist": "TODO",
         "targetAbi": "10.10.7.0",
         "sourceUrl": "https://github.com/ImLacy/Jellyfin-CustomLogo/releases/download/1.0.0/CustomLogo.zip",
