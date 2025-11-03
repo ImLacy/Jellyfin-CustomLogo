@@ -1,5 +1,8 @@
 # Jellyfin Custom Logo
 
+> [!IMPORTANT]  
+> The plugin have bugs, i'm working on a new version, but i don't have enough time, i will stop support from now
+
 This plugin allows you to replace the default Jellyfin logos.
 
 [Voir la version française](https://github.com/ImLacy/Jellyfin-CustomLogo/blob/main/README_FR.md)
