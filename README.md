@@ -53,16 +53,16 @@ Restart Jellyfin
 ⚠️ Ensure the image is in **PNG format**.
 
 - Save
+
+### Restart Jellyfin
+
 ---
 
 ## Troubleshooting
 
 ## The logo doesn't change
 Try to clear your browsers cache
+If using Cloudflare or similar. Clear the CDN Cache
 
 Firefox : https://support.mozilla.org/en-US/kb/how-clear-firefox-cache
 Chrome : https://support.google.com/accounts/answer/32050?hl=en&co=GENIE.Platform%3DDesktop
-
-## Know Issues
-### Docker
-A missing permission error occured, even when the Jellyfin user has sufficient permissions
