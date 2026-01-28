@@ -1,7 +1,7 @@
 # Jellyfin Custom Logo
 
 > [!IMPORTANT]  
-> The plugin have bugs, i'm working on a new version, but i don't have enough time, i will stop support from now
+> The plugin is not maintain anymore. Check out [Jellyfin Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced), they already have a much better version.
 
 This plugin allows you to replace the default Jellyfin logos.
 
